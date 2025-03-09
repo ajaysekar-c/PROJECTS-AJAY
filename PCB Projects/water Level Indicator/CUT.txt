@@ -1,0 +1,23 @@
+%
+( CopperCAM - 29/07/2019 / ISO-Mill Output )
+( C:\COPPERCAM\CopperCAM.iso created 04/08/2022 at 15:30 )
+( Workpiece dimensions: 56.82 x 35.55 x 1 mm )
+G21 G40 G54
+G80 G90 G94
+( Tool #2 "Basic Cutter" / Diameter 2 mm )
+T2 M06
+M03 S12000
+M07
+G00 X55.28 Y1.54
+G00 Z0
+G01 F60 Z-1.7
+G01 F240 X1.54
+G01 Y34.01
+G01 X55.28
+G01 Y1.54
+G00 Z2
+G00 X00 Y00
+M09
+M05
+M02
+%
